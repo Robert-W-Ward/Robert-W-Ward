@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: "0 4 * * *"
+  repository_dispatch:
+    types: [manual-trigger]
+  
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 jobs:
@@ -28,6 +31,7 @@ jobs:
 
       - name: Update README
         uses: actions/github-script@v4
+        if: ${{github.event_name == 'respository_dispatch'}}
         with:
           script: |
             const fs = require('fs');
