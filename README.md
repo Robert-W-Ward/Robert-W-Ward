@@ -8,7 +8,7 @@ I like to write code and solve problems.
 
 ## Skills
 - Programming Languages: Python, C/C++, JavaScript/TypeScript, C#
-- Frameworks: , .NET/ASP.NET, React.js, Node.js, Next.js
+- Frameworks: .NET/ASP.NET, React.js, Node.js, Next.js
 - Databases: MicrosoftSQL, PostgreSQL, MongoDB
 - Other Tools: Git, Docker, Linux
 
