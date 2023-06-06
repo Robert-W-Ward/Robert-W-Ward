@@ -15,14 +15,14 @@ I like to write code and solve problems.
 ### :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
-2. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
 3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
-4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/AstroNvim-config](https://github.com/Robert-W-Ward/AstroNvim-config)
-5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/AstroNvim-config](https://github.com/Robert-W-Ward/AstroNvim-config)
+4. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 6th, 2023, 9:31:43 PM
+Last Updated: Tuesday, June 6th, 2023, 9:34:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
