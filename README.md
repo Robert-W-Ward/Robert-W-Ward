@@ -12,7 +12,7 @@ I like to write code and solve problems.
 - Databases: MicrosoftSQL, PostgreSQL, MongoDB
 - Other Tools: Git, Docker, Linux
 
-### :zap: Latest Activities
+## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
 2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Robert-W-Ward](https://github.com/Robert-W-Ward/Robert-W-Ward)
