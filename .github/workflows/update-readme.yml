@@ -51,7 +51,7 @@ jobs:
 
             // Replace the existing section or append it to the README
             if (readme.includes('### Latest Activities')) {
-              readme = readme.replace(/### Latest Activities[\s\S]+/, section);
+            readme = readme.replace(/### :zap: Latest Activities[\s\S]+/, section);
             } else {
               readme += '\n\n' + section;
             }
