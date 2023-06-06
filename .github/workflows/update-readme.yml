@@ -1,19 +1,52 @@
-name: Update README
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
-      
-            
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Fetch latest activities
+        id: latest_activities
+        run: |
+          # Use the GitHub API to fetch the latest activities
+          ACTIVITIES=$(curl -s -H "Authorization: Bearer ${{ env.GH_TOKEN }}" \
+            "https://api.github.com/users/Robert-W-Ward/events")
+
+          # Process the JSON response to extract the relevant information
+          # and format it for the README
+
+          # Set the output variable for later steps
+          echo "::set-output name=activities::$ACTIVITIES"
+
+      - name: Update README
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const fs = require('fs');
+
+            // Read the current README contents
+            let readme = fs.readFileSync('README.md', 'utf8');
+
+            // Extract the latest activities from the output variable
+            const activities = JSON.parse('${{ steps.latest_activities.outputs.activities }}');
+
+            // Generate the section to update in the README
+            let section = '### Latest Activities\n\n';
+            section += activities
+              .slice(0, 5) // Get the top 5 activities
+              .map(activity => `- ${activity.type}: ${activity.repo.name}`)
+              .join('\n');
+
+            // Replace the existing section or append it to the README
+            if (readme.includes('### Latest Activities')) {
+              readme = readme.replace(/### Latest Activities[\s\S]+/, section);
+            } else {
+              readme += '\n\n' + section;
+            }
+
+            // Write the updated README back to the file
+            fs.writeFileSync('README.md', readme);
+        ```
+
+
