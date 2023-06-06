@@ -54,5 +54,5 @@ jobs:
 
             // Write the updated README back to the file
             fs.writeFileSync('README.md', readme);
-        ```
+            ```
 
