@@ -12,11 +12,11 @@ I like to write code and solve problems.
 - Databases: MicrosoftSQL, PostgreSQL, MongoDB
 - Other Tools: Git, Docker, Linux
 
-## Projects
-- [Project 1](https://github.com/your-username/project-1): A description of project 1.
-- [Project 2](https://github.com/your-username/project-2): A description of project 2.
-- [Project 3](https://github.com/your-username/project-3): A description of project 3.
+## :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTIN:activity-->
 ## GitHub Stats
 ![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robert-W-Ward&show_icons=true&theme=radical)
 
