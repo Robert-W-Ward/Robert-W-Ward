@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+name: Update README
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+>>>>>>> 278e09162b5557ace9081d69083ca1d60c541299
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
+<<<<<<< HEAD
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -50,3 +59,11 @@ jobs:
         ```
 
 
+=======
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+            
+>>>>>>> 278e09162b5557ace9081d69083ca1d60c541299

@@ -1,5 +1,5 @@
 
-# Your Name
+# Robert Ward II
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Robert-W-Ward)](https://github.com/Robert-W-Ward)
 
@@ -15,6 +15,8 @@ I like to write code and solve problems.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Robert-W-Ward/portfolio/issues/1) in [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
+<!--END_SECTION:activity-->
 
 <!--END_SECTIN:activity-->
 ## GitHub Stats
