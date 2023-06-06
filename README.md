@@ -12,7 +12,7 @@ I like to write code and solve problems.
 - Databases: MicrosoftSQL, PostgreSQL, MongoDB
 - Other Tools: Git, Docker, Linux
 
-### :zap: Latest Activities'
+### :zap: Latest Activities
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/Robert-W-Ward/portfolio/issues/1) in [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
