@@ -13,10 +13,9 @@ I like to write code and solve problems.
 - Other Tools: Git, Docker, Linux
 
 ### :zap: Latest Activities
+<!--RECENT_ACTIVITY:start-->
 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Robert-W-Ward/portfolio/issues/1) in [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--END_SECTIN:activity-->
 ## GitHub Stats
