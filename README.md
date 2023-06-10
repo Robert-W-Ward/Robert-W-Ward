@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
+1. ✔️ Closed issue [#11](https://github.com/collinhand/wheres-my-packet/issues/11) in [collinhand/wheres-my-packet](https://github.com/collinhand/wheres-my-packet)
+2. ✔️ Closed issue [#12](https://github.com/collinhand/wheres-my-packet/issues/12) in [collinhand/wheres-my-packet](https://github.com/collinhand/wheres-my-packet)
+3. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
 4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
 5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 9th, 2023, 2:20:11 AM
+Last Updated: Saturday, June 10th, 2023, 2:08:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
