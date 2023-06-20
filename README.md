@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [webull-inc/openapi-python-sdk](https://github.com/webull-inc/openapi-python-sdk)
-2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
-5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
+1. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+2. ⭐ Starred [Mangio621/Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork)
+3. ⭐ Starred [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
+4. ⭐ Starred [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D)
+5. ⭐ Starred [openai/shap-e](https://github.com/openai/shap-e)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 19th, 2023, 2:08:22 AM
+Last Updated: Tuesday, June 20th, 2023, 2:02:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
