@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-2. ⭐ Starred [Mangio621/Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork)
-3. ⭐ Starred [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
-4. ⭐ Starred [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D)
-5. ⭐ Starred [openai/shap-e](https://github.com/openai/shap-e)
+1. ⭐ Starred [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+2. ⭐ Starred [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+3. ⭐ Starred [helix-editor/helix](https://github.com/helix-editor/helix)
+4. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+5. ⭐ Starred [Mangio621/Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 2:02:22 AM
+Last Updated: Wednesday, June 21st, 2023, 2:03:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
