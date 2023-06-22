@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-2. ⭐ Starred [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
-3. ⭐ Starred [helix-editor/helix](https://github.com/helix-editor/helix)
-4. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-5. ⭐ Starred [Mangio621/Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork)
+1. ⭐ Starred [UPBGE/upbge](https://github.com/UPBGE/upbge)
+2. ⭐ Starred [NVIDIA/TransformerEngine](https://github.com/NVIDIA/TransformerEngine)
+3. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+4. ⭐ Starred [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+5. ⭐ Starred [darioizzo/dcgp](https://github.com/darioizzo/dcgp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 21st, 2023, 2:03:39 AM
+Last Updated: Thursday, June 22nd, 2023, 2:08:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
