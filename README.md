@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/torchscale](https://github.com/microsoft/torchscale)
-2. ⭐ Starred [microsoft/unilm](https://github.com/microsoft/unilm)
-3. ⭐ Starred [geohot/tinygrad](https://github.com/geohot/tinygrad)
-4. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. ⭐ Starred [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab)
+1. ⭐ Starred [mikepound/cubes](https://github.com/mikepound/cubes)
+2. ⭐ Starred [microsoft/torchscale](https://github.com/microsoft/torchscale)
+3. ⭐ Starred [microsoft/unilm](https://github.com/microsoft/unilm)
+4. ⭐ Starred [geohot/tinygrad](https://github.com/geohot/tinygrad)
+5. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 11th, 2023, 2:15:13 AM
+Last Updated: Wednesday, July 12th, 2023, 2:21:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
