@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
-2. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
-3. ⭐ Starred [freedmand/semantra](https://github.com/freedmand/semantra)
-4. ⭐ Starred [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)
-5. ⭐ Starred [libp2p/libp2p](https://github.com/libp2p/libp2p)
+1. ⭐ Starred [jxnl/instructor](https://github.com/jxnl/instructor)
+2. ⭐ Starred [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx)
+3. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
+4. ⭐ Starred [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
+5. ⭐ Starred [freedmand/semantra](https://github.com/freedmand/semantra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 3rd, 2023, 2:08:43 AM
+Last Updated: Saturday, November 4th, 2023, 1:39:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
