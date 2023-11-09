@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hylo-lang/hylo](https://github.com/hylo-lang/hylo)
-2. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-3. ⭐ Starred [mikeroyal/Neuromorphic-Computing-Guide](https://github.com/mikeroyal/Neuromorphic-Computing-Guide)
-4. ⭐ Starred [jxnl/instructor](https://github.com/jxnl/instructor)
-5. ⭐ Starred [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx)
+1. ⭐ Starred [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+2. ⭐ Starred [hylo-lang/hylo](https://github.com/hylo-lang/hylo)
+3. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+4. ⭐ Starred [mikeroyal/Neuromorphic-Computing-Guide](https://github.com/mikeroyal/Neuromorphic-Computing-Guide)
+5. ⭐ Starred [jxnl/instructor](https://github.com/jxnl/instructor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 2:13:15 AM
+Last Updated: Thursday, November 9th, 2023, 1:42:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
