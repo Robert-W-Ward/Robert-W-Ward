@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AssemblyAI-Examples/Machine-Learning-From-Scratch](https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch)
-2. ⭐ Starred [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
-3. ⭐ Starred [hylo-lang/hylo](https://github.com/hylo-lang/hylo)
-4. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-5. ⭐ Starred [mikeroyal/Neuromorphic-Computing-Guide](https://github.com/mikeroyal/Neuromorphic-Computing-Guide)
+1. ⭐ Starred [ggerganov/ggml](https://github.com/ggerganov/ggml)
+2. ⭐ Starred [AssemblyAI-Examples/Machine-Learning-From-Scratch](https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch)
+3. ⭐ Starred [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+4. ⭐ Starred [hylo-lang/hylo](https://github.com/hylo-lang/hylo)
+5. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 14th, 2023, 2:14:33 AM
+Last Updated: Wednesday, November 15th, 2023, 1:45:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
