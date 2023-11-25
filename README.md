@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BindsNET/bindsnet](https://github.com/BindsNET/bindsnet)
-2. ⭐ Starred [wazuh/wazuh](https://github.com/wazuh/wazuh)
-3. ⭐ Starred [withcatai/catai](https://github.com/withcatai/catai)
-4. ⭐ Starred [vazgriz/DungeonGenerator](https://github.com/vazgriz/DungeonGenerator)
-5. ⭐ Starred [ggerganov/ggml](https://github.com/ggerganov/ggml)
+1. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+2. ⭐ Starred [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
+3. ⭐ Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+4. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+5. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 24th, 2023, 2:14:55 AM
+Last Updated: Saturday, November 25th, 2023, 1:40:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
