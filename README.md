@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modularml/mojo](https://github.com/modularml/mojo)
-2. ⭐ Starred [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui)
-3. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-4. ⭐ Starred [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)
-5. ⭐ Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+1. ⭐ Starred [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
+2. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+4. ⭐ Starred [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+5. ⭐ Starred [epfLLM/meditron](https://github.com/epfLLM/meditron)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 2:25:30 AM
+Last Updated: Saturday, December 2nd, 2023, 1:40:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
