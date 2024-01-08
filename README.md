@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
-2. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-3. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
-4. ⭐ Starred [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
-5. ⭐ Starred [epfLLM/meditron](https://github.com/epfLLM/meditron)
+1. ⭐ Starred [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
+2. ⭐ Starred [thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer)
+3. ⭐ Starred [THU-LYJ-Lab/T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
+4. ⭐ Starred [lukasHoel/text2room](https://github.com/lukasHoel/text2room)
+5. ⭐ Starred [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 7th, 2024, 2:23:22 AM
+Last Updated: Monday, January 8th, 2024, 1:47:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
