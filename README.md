@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
-2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
+1. ⭐ Starred [NVIDIA/deepops](https://github.com/NVIDIA/deepops)
+2. ⭐ Starred [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)
 3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
-4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
+4. ⬆️ Pushed 2 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
 5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 22nd, 2024, 2:04:06 AM
+Last Updated: Friday, February 23rd, 2024, 1:37:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
