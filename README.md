@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cheng-chi/ORB_SLAM3](https://github.com/cheng-chi/ORB_SLAM3)
-2. ⭐ Starred [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface)
-3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
-4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
-5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/Radi](https://github.com/Robert-W-Ward/Radi)
+1. ⭐ Starred [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin)
+2. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+3. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+4. ⭐ Starred [cheng-chi/ORB_SLAM3](https://github.com/cheng-chi/ORB_SLAM3)
+5. ⭐ Starred [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 25th, 2024, 2:10:40 AM
+Last Updated: Monday, February 26th, 2024, 1:39:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
