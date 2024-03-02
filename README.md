@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
-2. ⭐ Starred [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)
-3. ⭐ Starred [tenstorrent-metal/tt-metal](https://github.com/tenstorrent-metal/tt-metal)
-4. ⭐ Starred [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin)
-5. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+1. ⭐ Starred [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone)
+2. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+3. ⭐ Starred [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)
+4. ⭐ Starred [tenstorrent-metal/tt-metal](https://github.com/tenstorrent-metal/tt-metal)
+5. ⭐ Starred [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 1st, 2024, 2:14:57 AM
+Last Updated: Saturday, March 2nd, 2024, 1:35:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
