@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eladrich/latent-nerf](https://github.com/eladrich/latent-nerf)
-2. ⭐ Starred [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion)
-3. ⭐ Starred [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
-4. ⭐ Starred [facebookresearch/jepa](https://github.com/facebookresearch/jepa)
-5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/portfolio](https://github.com/Robert-W-Ward/portfolio)
+1. ⭐ Starred [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
+2. ⭐ Starred [adap/flower](https://github.com/adap/flower)
+3. ⭐ Starred [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+4. ⭐ Starred [FederatedAI/FATE](https://github.com/FederatedAI/FATE)
+5. ⭐ Starred [intel/openvino-ai-plugins-gimp](https://github.com/intel/openvino-ai-plugins-gimp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 11th, 2024, 2:13:24 AM
+Last Updated: Friday, April 12th, 2024, 1:40:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
