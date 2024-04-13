@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
-2. ⭐ Starred [adap/flower](https://github.com/adap/flower)
-3. ⭐ Starred [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
-4. ⭐ Starred [FederatedAI/FATE](https://github.com/FederatedAI/FATE)
-5. ⭐ Starred [intel/openvino-ai-plugins-gimp](https://github.com/intel/openvino-ai-plugins-gimp)
+1. ⭐ Starred [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango)
+2. ⭐ Starred [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
+3. ⭐ Starred [adap/flower](https://github.com/adap/flower)
+4. ⭐ Starred [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL)
+5. ⭐ Starred [FederatedAI/FATE](https://github.com/FederatedAI/FATE)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 13th, 2024, 1:55:59 AM
+Last Updated: Saturday, April 13th, 2024, 2:07:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
