@@ -26,9 +26,6 @@ Last Updated: Tuesday, April 30th, 2024, 2:14:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
-## GitHub Stats
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robert-W-Ward&show_icons=true&theme=radical)
-
 ## Contributions
 [![Your Name's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Robert-W-Ward&theme=radical)](https://github.com/your-username)
 
