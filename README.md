@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-2. ⭐ Starred [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl)
-3. ⭐ Starred [It4innovations/rsds](https://github.com/It4innovations/rsds)
-4. ⭐ Starred [Avaiga/taipy](https://github.com/Avaiga/taipy)
-5. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
+1. ⭐ Starred [scipy/scipy](https://github.com/scipy/scipy)
+2. ⭐ Starred [wandb/openui](https://github.com/wandb/openui)
+3. ⭐ Starred [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+4. ⭐ Starred [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+5. ⭐ Starred [It4innovations/rsds](https://github.com/It4innovations/rsds)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 5th, 2024, 2:18:45 AM
+Last Updated: Monday, May 6th, 2024, 1:44:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
