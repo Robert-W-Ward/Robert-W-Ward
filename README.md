@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karpathy/llm.c](https://github.com/karpathy/llm.c)
-2. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-3. ⭐ Starred [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)
-4. ⭐ Starred [edgedb/edgedb](https://github.com/edgedb/edgedb)
-5. ⭐ Starred [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
+1. ⭐ Starred [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+2. ⭐ Starred [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
+3. ⭐ Starred [marcoheisig/Petalisp](https://github.com/marcoheisig/Petalisp)
+4. ⭐ Starred [karpathy/llm.c](https://github.com/karpathy/llm.c)
+5. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 7th, 2024, 2:22:32 AM
+Last Updated: Wednesday, May 8th, 2024, 1:27:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
