@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
-3. ⭐ Starred [ronivay/XenOrchestraInstallerUpdater](https://github.com/ronivay/XenOrchestraInstallerUpdater)
-4. ⭐ Starred [racket/racket](https://github.com/racket/racket)
-5. ⭐ Starred [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
+1. ⭐ Starred [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
+2. ⭐ Starred [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+3. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+4. ⭐ Starred [home-assistant/core](https://github.com/home-assistant/core)
+5. ⭐ Starred [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 27th, 2024, 2:00:58 AM
+Last Updated: Wednesday, August 28th, 2024, 2:02:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
