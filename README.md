@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu)
-2. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. ⭐ Starred [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
-4. ⭐ Starred [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
-5. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+1. ⭐ Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+2. ⭐ Starred [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu)
+3. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+4. ⭐ Starred [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
+5. ⭐ Starred [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 11th, 2024, 2:04:35 AM
+Last Updated: Thursday, September 12th, 2024, 2:04:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
