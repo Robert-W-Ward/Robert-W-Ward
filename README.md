@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BananaHolograma/FSM](https://github.com/BananaHolograma/FSM)
-2. ⭐ Starred [BananaHolograma/First-Person-Controller](https://github.com/BananaHolograma/First-Person-Controller)
-3. ⭐ Starred [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID)
-4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-5. ⭐ Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+1. ⭐ Starred [apache/paimon](https://github.com/apache/paimon)
+2. ⭐ Starred [cupy/cupy](https://github.com/cupy/cupy)
+3. ⭐ Starred [apache/dubbo](https://github.com/apache/dubbo)
+4. ⭐ Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+5. ⭐ Starred [BananaHolograma/FSM](https://github.com/BananaHolograma/FSM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 21st, 2024, 2:05:05 AM
+Last Updated: Sunday, September 22nd, 2024, 2:14:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
