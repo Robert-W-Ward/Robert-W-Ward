@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)
-2. ⭐ Starred [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF)
-3. ⭐ Starred [apache/paimon](https://github.com/apache/paimon)
-4. ⭐ Starred [cupy/cupy](https://github.com/cupy/cupy)
-5. ⭐ Starred [apache/dubbo](https://github.com/apache/dubbo)
+1. ⭐ Starred [SUDO-AI-3D/One2345plus](https://github.com/SUDO-AI-3D/One2345plus)
+2. ⭐ Starred [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus)
+3. ⭐ Starred [Admyral-Security/admyral](https://github.com/Admyral-Security/admyral)
+4. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)
+5. ⭐ Starred [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 24th, 2024, 2:10:24 AM
+Last Updated: Wednesday, September 25th, 2024, 2:11:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
