@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [o3de/o3de](https://github.com/o3de/o3de)
-2. ⭐ Starred [stride3d/stride](https://github.com/stride3d/stride)
-3. ⭐ Starred [blazium-engine/blazium](https://github.com/blazium-engine/blazium)
-4. ⭐ Starred [chipsalliance/f4pga](https://github.com/chipsalliance/f4pga)
-5. ⭐ Starred [nix-community/NUR](https://github.com/nix-community/NUR)
+1. ⭐ Starred [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+2. ⭐ Starred [motiondivision/motion](https://github.com/motiondivision/motion)
+3. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+4. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+5. ⭐ Starred [o3de/o3de](https://github.com/o3de/o3de)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 14th, 2024, 2:09:39 AM
+Last Updated: Friday, November 15th, 2024, 2:16:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
