@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ROCm/ROCm](https://github.com/ROCm/ROCm)
-2. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/advent-of-code](https://github.com/Robert-W-Ward/advent-of-code)
-3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/advent-of-code](https://github.com/Robert-W-Ward/advent-of-code)
+1. ⭐ Starred [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen)
+2. ⭐ Starred [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+3. ⭐ Starred [ROCm/ROCm](https://github.com/ROCm/ROCm)
 4. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/advent-of-code](https://github.com/Robert-W-Ward/advent-of-code)
 5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/advent-of-code](https://github.com/Robert-W-Ward/advent-of-code)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 22nd, 2024, 2:15:45 AM
+Last Updated: Monday, December 23rd, 2024, 2:11:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
