@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Robert-W-Ward/PyTracer](https://github.com/Robert-W-Ward/PyTracer)
-2. ⭐ Starred [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen)
-3. ⭐ Starred [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-4. ⭐ Starred [ROCm/ROCm](https://github.com/ROCm/ROCm)
-5. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/advent-of-code](https://github.com/Robert-W-Ward/advent-of-code)
+1. ⭐ Starred [0BAB1/HOLY_CORE_COURSE](https://github.com/0BAB1/HOLY_CORE_COURSE)
+2. ⬆️ Pushed 2 commit(s) to [Robert-W-Ward/PyTracer](https://github.com/Robert-W-Ward/PyTracer)
+3. ⭐ Starred [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen)
+4. ⭐ Starred [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+5. ⭐ Starred [ROCm/ROCm](https://github.com/ROCm/ROCm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 31st, 2024, 2:08:45 AM
+Last Updated: Wednesday, January 1st, 2025, 2:17:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
