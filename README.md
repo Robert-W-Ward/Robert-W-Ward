@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openocd-org/openocd](https://github.com/openocd-org/openocd)
-2. ⭐ Starred [ptresearch/unME11](https://github.com/ptresearch/unME11)
-3. ⭐ Starred [skochinsky/me-tools](https://github.com/skochinsky/me-tools)
-4. ⭐ Starred [peterbjornx/meimagetool](https://github.com/peterbjornx/meimagetool)
-5. ⭐ Starred [corna/me_cleaner](https://github.com/corna/me_cleaner)
+1. ⭐ Starred [NVlabs/Sana](https://github.com/NVlabs/Sana)
+2. ⭐ Starred [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
+3. ⭐ Starred [openocd-org/openocd](https://github.com/openocd-org/openocd)
+4. ⭐ Starred [ptresearch/unME11](https://github.com/ptresearch/unME11)
+5. ⭐ Starred [skochinsky/me-tools](https://github.com/skochinsky/me-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 13th, 2025, 2:14:48 AM
+Last Updated: Tuesday, January 14th, 2025, 2:05:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
