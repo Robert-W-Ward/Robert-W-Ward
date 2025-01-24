@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [horovod/horovod](https://github.com/horovod/horovod)
-2. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
-3. ⭐ Starred [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework)
-4. ⭐ Starred [klotzsch-lab/Maasi](https://github.com/klotzsch-lab/Maasi)
-5. ⭐ Starred [google/gf180mcu-pdk](https://github.com/google/gf180mcu-pdk)
+1. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+2. ⭐ Starred [horovod/horovod](https://github.com/horovod/horovod)
+3. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+4. ⭐ Starred [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework)
+5. ⭐ Starred [klotzsch-lab/Maasi](https://github.com/klotzsch-lab/Maasi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 23rd, 2025, 2:06:43 AM
+Last Updated: Friday, January 24th, 2025, 2:07:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
