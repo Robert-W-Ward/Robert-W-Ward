@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cline/cline](https://github.com/cline/cline)
-2. ⭐ Starred [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
-3. ⭐ Starred [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph)
+1. ⭐ Starred [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb)
+2. ⭐ Starred [cline/cline](https://github.com/cline/cline)
+3. ⭐ Starred [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
 4. ⭐ Starred [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph)
-5. ⭐ Starred [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph)
+5. ⭐ Starred [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 27th, 2025, 2:08:06 AM
+Last Updated: Tuesday, January 28th, 2025, 2:06:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
