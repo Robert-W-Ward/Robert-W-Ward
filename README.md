@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [volcengine/verl](https://github.com/volcengine/verl)
-2. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-3. ⭐ Starred [QuantumKitHub/MPSKit.jl](https://github.com/QuantumKitHub/MPSKit.jl)
-4. ⭐ Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
-5. ⭐ Starred [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb)
+1. ⭐ Starred [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
+2. ⭐ Starred [volcengine/verl](https://github.com/volcengine/verl)
+3. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+4. ⭐ Starred [QuantumKitHub/MPSKit.jl](https://github.com/QuantumKitHub/MPSKit.jl)
+5. ⭐ Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 4th, 2025, 2:06:43 AM
+Last Updated: Wednesday, February 5th, 2025, 2:08:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
