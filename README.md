@@ -17,12 +17,10 @@ I like to write code and solve problems.
 1. ⭐ Starred [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
 2. ⭐ Starred [volcengine/verl](https://github.com/volcengine/verl)
 3. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-4. ⭐ Starred [QuantumKitHub/MPSKit.jl](https://github.com/QuantumKitHub/MPSKit.jl)
-5. ⭐ Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 2:12:11 AM
+Last Updated: Thursday, February 27th, 2025, 2:12:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
