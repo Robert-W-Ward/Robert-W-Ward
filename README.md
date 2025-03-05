@@ -14,11 +14,13 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
+1. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)
+2. ⭐ Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
+3. ⭐ Starred [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 4th, 2025, 2:14:12 AM
+Last Updated: Wednesday, March 5th, 2025, 2:14:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
