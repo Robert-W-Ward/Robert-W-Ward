@@ -14,13 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)
-2. ⭐ Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
-3. ⭐ Starred [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
+1. ⭐ Starred [microsoft/Magma](https://github.com/microsoft/Magma)
+2. ⭐ Starred [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+3. ⭐ Starred [microsoft/TrellisBMA](https://github.com/microsoft/TrellisBMA)
+4. ⭐ Starred [Tencent/Tencent-XR-3DGen](https://github.com/Tencent/Tencent-XR-3DGen)
+5. ⭐ Starred [SesameAILabs/csm](https://github.com/SesameAILabs/csm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 2:14:09 AM
+Last Updated: Thursday, March 6th, 2025, 2:14:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
