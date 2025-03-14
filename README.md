@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Robert-W-Ward/zmk](https://github.com/Robert-W-Ward/zmk) from [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
-2. ⭐ Starred [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
-3. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
-4. ⭐ Starred [microsoft/Magma](https://github.com/microsoft/Magma)
-5. ⭐ Starred [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+1. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 🔱 Forked [Robert-W-Ward/zmk](https://github.com/Robert-W-Ward/zmk) from [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+3. ⭐ Starred [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+4. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+5. ⭐ Starred [microsoft/Magma](https://github.com/microsoft/Magma)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 13th, 2025, 2:16:18 AM
+Last Updated: Friday, March 14th, 2025, 2:14:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
