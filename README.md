@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
-2. ⭐ Starred [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
-3. ⬆️ Pushed 1 commit(s) to [Robert-W-Ward/kuzu](https://github.com/Robert-W-Ward/kuzu)
-4. ⬆️ Pushed 45 commit(s) to [Robert-W-Ward/kuzu](https://github.com/Robert-W-Ward/kuzu)
-5. ⭐ Starred [joanrod/star-vector](https://github.com/joanrod/star-vector)
+1. ⭐ Starred [LTH14/mar](https://github.com/LTH14/mar)
+2. ⭐ Starred [VAST-AI-Research/ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)
+3. ⭐ Starred [VAST-AI-Research/TripoSF](https://github.com/VAST-AI-Research/TripoSF)
+4. ⭐ Starred [VAST-AI-Research/TripoSG](https://github.com/VAST-AI-Research/TripoSG)
+5. ⭐ Starred [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 6th, 2025, 2:23:32 AM
+Last Updated: Monday, April 7th, 2025, 2:22:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
