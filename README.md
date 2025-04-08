@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LTH14/mar](https://github.com/LTH14/mar)
-2. ⭐ Starred [VAST-AI-Research/ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)
-3. ⭐ Starred [VAST-AI-Research/TripoSF](https://github.com/VAST-AI-Research/TripoSF)
-4. ⭐ Starred [VAST-AI-Research/TripoSG](https://github.com/VAST-AI-Research/TripoSG)
-5. ⭐ Starred [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+1. ⭐ Starred [Stable-X/Hi3DGen](https://github.com/Stable-X/Hi3DGen)
+2. ⭐ Starred [LTH14/mar](https://github.com/LTH14/mar)
+3. ⭐ Starred [VAST-AI-Research/ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)
+4. ⭐ Starred [VAST-AI-Research/TripoSF](https://github.com/VAST-AI-Research/TripoSF)
+5. ⭐ Starred [VAST-AI-Research/TripoSG](https://github.com/VAST-AI-Research/TripoSG)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 7th, 2025, 2:22:28 AM
+Last Updated: Tuesday, April 8th, 2025, 2:19:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
