@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unisonweb/unison](https://github.com/unisonweb/unison)
-2. ⭐ Starred [ponylang/ponyc](https://github.com/ponylang/ponyc)
-3. ⭐ Starred [ponylang/ponylang-website](https://github.com/ponylang/ponylang-website)
-4. ⭐ Starred [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
-5. ⭐ Starred [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind)
+1. ⭐ Starred [tenstorrent/tt-torch](https://github.com/tenstorrent/tt-torch)
+2. ⭐ Starred [unisonweb/unison](https://github.com/unisonweb/unison)
+3. ⭐ Starred [ponylang/ponyc](https://github.com/ponylang/ponyc)
+4. ⭐ Starred [ponylang/ponylang-website](https://github.com/ponylang/ponylang-website)
+5. ⭐ Starred [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 23rd, 2025, 2:22:14 AM
+Last Updated: Thursday, April 24th, 2025, 2:23:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
