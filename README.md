@@ -14,15 +14,15 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lxc/incus](https://github.com/lxc/incus)
-2. ⭐ Starred [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
-3. ⭐ Starred [Apress/low-level-programming](https://github.com/Apress/low-level-programming)
-4. ⭐ Starred [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe)
-5. ⭐ Starred [tenstorrent/tt-torch](https://github.com/tenstorrent/tt-torch)
+1. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+2. ⭐ Starred [lxc/incus](https://github.com/lxc/incus)
+3. ⭐ Starred [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
+4. ⭐ Starred [Apress/low-level-programming](https://github.com/Apress/low-level-programming)
+5. ⭐ Starred [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 13th, 2025, 2:27:47 AM
+Last Updated: Wednesday, May 14th, 2025, 2:26:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
