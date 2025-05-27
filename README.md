@@ -18,11 +18,10 @@ I like to write code and solve problems.
 2. ⭐ Starred [lxc/incus](https://github.com/lxc/incus)
 3. ⭐ Starred [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
 4. ⭐ Starred [Apress/low-level-programming](https://github.com/Apress/low-level-programming)
-5. ⭐ Starred [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 26th, 2025, 2:39:14 AM
+Last Updated: Tuesday, May 27th, 2025, 2:26:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
