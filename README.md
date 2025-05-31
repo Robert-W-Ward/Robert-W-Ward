@@ -17,11 +17,10 @@ I like to write code and solve problems.
 1. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
 2. ⭐ Starred [lxc/incus](https://github.com/lxc/incus)
 3. ⭐ Starred [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
-4. ⭐ Starred [Apress/low-level-programming](https://github.com/Apress/low-level-programming)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 2:26:31 AM
+Last Updated: Saturday, May 31st, 2025, 2:24:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
