@@ -15,12 +15,10 @@ I like to write code and solve problems.
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-2. ⭐ Starred [lxc/incus](https://github.com/lxc/incus)
-3. ⭐ Starred [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 31st, 2025, 2:24:55 AM
+Last Updated: Sunday, June 1st, 2025, 2:55:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
