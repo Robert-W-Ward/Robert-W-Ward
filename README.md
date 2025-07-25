@@ -14,11 +14,12 @@ I like to write code and solve problems.
 
 ## :zap: Latest Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
+1. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+2. ⭐ Starred [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 24th, 2025, 2:50:56 AM
+Last Updated: Friday, July 25th, 2025, 2:50:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--END_SECTIN:activity-->
