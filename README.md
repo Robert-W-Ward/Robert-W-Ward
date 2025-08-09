@@ -13,3 +13,4 @@ I like to write code and solve problems.
 ## Contact Me
 - [Email](mailto:robertwesleyward2019@gmail.com)
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/robert-ward-ii/)
+- [X.com](https://x.com/IWRobertWI)
