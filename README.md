@@ -1,8 +1,6 @@
 
 # Robert Ward II
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Robert-W-Ward)](https://github.com/Robert-W-Ward)
-
 ## About Me
 I like to write code and solve problems.
 
